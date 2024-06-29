@@ -1,124 +1,954 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719694898070 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719695178907 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694901184 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695182017 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694904332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695185132 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694907433 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695188241 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694910614 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695191417 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694913752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695194550 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694916861 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695197686 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694919975 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695200817 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694923097 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695203933 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694926257 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695207056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694929373 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695210173 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694932525 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695213289 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694935664 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695216449 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694938788 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695219582 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694941919 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695222687 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694945070 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695225856 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694948210 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695228961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694951331 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695232077 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694954447 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695235192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694957558 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695238321 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694960676 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695241521 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694963854 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695244661 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694966971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695247807 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694970093 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695250949 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719694973228 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719695254059 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695257179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695260366 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695263475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695266595 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695269712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695272828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695275942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695279070 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695282210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695285350 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695288484 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695291606 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695294707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695297825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695300923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695304025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695307171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695310341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695313469 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695316591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695319727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695322830 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695325943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695329054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695332204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695335317 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695338436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695341540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695344650 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695347757 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695351049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695354177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695357282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695360395 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695363509 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695366657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695369761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695372881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695375992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695379100 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695382209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695385315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695388408 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695391511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695394687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695397815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695400975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695404142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695407255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695410373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695413497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695416595 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695419704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695422839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695425946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695429106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695432233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695435341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695438459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695441596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695444739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695447938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695451107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695454395 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695457513 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695460631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695463736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695466850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695470055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695473179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695476314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695479438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695482565 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695485699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695488797 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695491925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695495072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695498208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695501328 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695504447 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695507596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695510713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695513836 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695516949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695520080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695523230 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695526367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695529498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695532615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695535745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695538911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695542071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695545246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695548343 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695551458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695554556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695557654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695560786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695563949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695567203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695570335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695573461 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695576575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695579690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695582786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695585896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695589022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695592152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695595275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695598382 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695601507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695604631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695607803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695610922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695614039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695617172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695620284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695623398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695626520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695629616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695632721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695635878 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695638995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695642138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695645280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695648397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695651502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695654602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695657765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695660891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695664060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695667203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695670299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695673407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695676562 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695679833 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695682977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695686095 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695689265 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695692364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695695492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695698678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695701786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695704898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695708156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695711252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695714379 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695717497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695720608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695723704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695726911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695730057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695733193 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695736354 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695739479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695742579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695745671 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695748792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695751963 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695755075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695758230 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695761352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695764453 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695767568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695770747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+since-discovery.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719695773878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
